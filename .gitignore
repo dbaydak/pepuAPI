@@ -32,6 +32,11 @@ ENV/
 *.swp
 *.swo
 *~
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
 
 # OS specific files
 .DS_Store
@@ -70,10 +75,3 @@ docs/_build/
 
 # Credentials
 variables/.dev.env
-
-# ...
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
